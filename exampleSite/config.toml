@@ -32,8 +32,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 
 # menu
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "nosotros"
+name = "Nosotros"
 weight = 2
 
 [[menu.main]]
@@ -54,10 +54,10 @@ weight = 5
 
 # default parameters
 [params]
-home = "Home"
+home = "Inicio"
 logo = "images/logo.png"
 # theme color
-theme_color = "#41228e"
+theme_color = "#de4c35"
 # contact info
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
